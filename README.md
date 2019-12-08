@@ -17,5 +17,7 @@ The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
 ### Update 12/08
- Add a Sign in form
- Add a Register form 
+<ol>
+  <li>Add a Sign in form</li>
+  <li>Add a Register form</li>
+ </ol>
